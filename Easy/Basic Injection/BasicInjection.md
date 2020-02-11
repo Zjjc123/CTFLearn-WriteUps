@@ -40,6 +40,7 @@ SELECT * FROM somedatatable WHERE Name = '' OR '' = ''
 which returns all data
 
 By inputting that we get
+
 ![](https://i.imgur.com/LLowDnA.png)
 
 It's sorta obvious from there
@@ -49,3 +50,4 @@ It's sorta obvious from there
 th4t_is_why_you_n33d_to_sanitiz3_inputs
 ~~~
 
+P.S. yes you really do
